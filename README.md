@@ -1,2 +1,2 @@
 # goexplore-retail-analytics
-Retail analytics project analyzing 149K+ transactions using Google Sheets, BigQuery SQL, and Looker Studio
+End-to-end retail analytics project: Google Sheets → BigQuery → Looker Studio. Analyzing 149K transactions
