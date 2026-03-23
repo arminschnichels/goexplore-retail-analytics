@@ -38,14 +38,6 @@ GoExplore is a rapidly growing camping and hiking equipment supplier. As the new
 
 ---
 
-## 📁 Repository Structure
-├── google-sheets/         # Exploratory dashboards (retailer, channel, product analysis)
-├── bigquery-sql/          # SQL query for data model and calculated metrics
-├── looker-studio/         # Interactive dashboard screenshots (4 pages)
-└── README.md
-
----
-
 ## 🔧 Analytical Approach
 
 ### Phase 1: Google Sheets — Exploration
